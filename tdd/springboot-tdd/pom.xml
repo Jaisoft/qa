@@ -8,11 +8,11 @@
 		<version>2.6.8<!--2.5.5-2.7.0--></version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>springboot-tdd-poc</artifactId>
+	<groupId>com.jaisof.tdd</groupId>
+	<artifactId>springboot-tdd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>springboot-tdd</name>
+	<description>Demo project for Spring Boot TDD</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
